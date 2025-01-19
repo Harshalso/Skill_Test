@@ -1,6 +1,6 @@
 Microservices Containerization Task
 
-# This document provides a step-by-step guide for containerizing four Node.js microservices and orchestrating them using Docker and Docker Compose. Additionally, it covers deploying the application on an AWS EC2 instance.
+This document provides a step-by-step guide for containerizing four Node.js microservices and orchestrating them using Docker and Docker Compose. Additionally, it covers deploying the application on an AWS EC2 instance.
 
 ## Objective
 
